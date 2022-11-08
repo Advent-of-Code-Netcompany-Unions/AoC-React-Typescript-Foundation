@@ -31,7 +31,6 @@ import { Day22 } from './day22/Day22';
 import { Day23 } from './day23/Day23';
 import { Day24 } from './day24/Day24';
 import { Day25 } from './day25/Day25';
-import { Experiments } from './experiments/Experiments';
 function App() {
   return (
     <Router>
@@ -150,7 +149,6 @@ function App() {
         <Route path="/day23" component={Day23}></Route>
         <Route path="/day24" component={Day24}></Route>
         <Route path="/day25" component={Day25}></Route>
-        <Route path="/experiments" component={Experiments}></Route>
       </Switch>
     </div>
   </Router>
