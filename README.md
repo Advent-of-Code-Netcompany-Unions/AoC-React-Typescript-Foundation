@@ -1,4 +1,5 @@
 # Getting Started with AOC 2022 App
+Bagerens børn får aldrig brød, og skomagerens børn går med hullede sko
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
