@@ -8,7 +8,11 @@ The program is executed whenever the code or input changes.
 
 ## Available Scripts
 
-In the project directory, you can run:
+Before running the project the first time, run:
+
+### `npm install`
+
+In the project directory, you can then run:
 
 ### `npm start`
 
